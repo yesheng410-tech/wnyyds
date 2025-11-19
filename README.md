@@ -1,3 +1,4 @@
+
 # iHRM登录接口自动化测试项目
 
 ## 项目介绍
@@ -28,3 +29,6 @@ ihrm-interface-automation/
 1. 克隆仓库：`git clone https://github.com/你的GitHub用户名/ihrm-interface-automation.git`
 2. 安装依赖：`pip install -r requirements.txt`
 3. 运行用例：`unittest test_case/test_login.py --html=report.html`
+
+
+
